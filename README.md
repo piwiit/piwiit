@@ -5,7 +5,7 @@
 
 
 -->
-h2>Hey there 👋, I'm <a href="https://jonathanbouillaux.herokuapp.com/">Jonathan</a></h2>
+<h2> Hey there 👋, I'm <a href="https://jonathanbouillaux.herokuapp.com/">Jonathan</a></h2>
 
 <p>I'm a developer based in La Rochelle looking for a job to be the very best like no one ever was. 🎶 <br> In the meanwhile I am working on some side projects<strong><a href="https://www.thehackingproject.org/">@THP</a></strong>.</p>
 
