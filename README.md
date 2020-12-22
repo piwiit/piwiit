@@ -24,3 +24,4 @@
 <li>🤘  You rock!</li>
 </ul>
 <br>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?piwiit=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
