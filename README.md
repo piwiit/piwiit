@@ -9,6 +9,9 @@
 
 <p>I'm a french developer 🇫🇷 based in La Rochelle looking for a job to be the very best like no one ever was. 🎶 <br> In the meanwhile I am working on some side projects<strong><a href="https://www.thehackingproject.org/">@THP</a></strong>.</p>
 
+<p><a href="https://jonathanbouillaux.herokuapp.com/"><img src="https://img.shields.io/badge/-jonathanbouillaux-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://stanleylim.me" alt="Website Badge"></a>
+<a href="https://www.linkedin.com/in/jonathan-bouillaux-810b831a1/"><img src="https://img.shields.io/badge/-@jonathanbouillaux-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/serbis/" alt="LinkedIn Badge"></a></p>
+
 
 <img align="right" src="https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif" />
 <br>
