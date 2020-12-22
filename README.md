@@ -17,7 +17,7 @@
 <li>🧭  I’m currently looking for fullstack opening in La Rochelle/remote on an exciting project.</li>
 <li>💻  Most of my projects are available on <a href="https://jonathanbouillaux.herokuapp.com/">Github</a>.</li>
 <li>💬  Ping me if you want to talk about <strong>ruby, startups or video games.</strong>.</li>
-<li>  I practice tennis :tennis: and motocycle :motocycle: on the week-end.</li>
+<li>  I practice tennis :tennis: and motocycle :motorcycle: on the week-end.</li>
 <li>🤘  You rock!</li>
 </ul>
 <br>
