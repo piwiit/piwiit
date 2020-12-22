@@ -24,4 +24,11 @@
 <li>🤘  You rock!</li>
 </ul>
 <br>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?piwiit=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/piwiit/piwiit">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piwiit&theme=solarized-light" />
+</a>
+<a href="https://github.com/piwiit/piwiit">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=piwiit&show_icons=true&line_height=27&theme=solarized-light" alt="Julien's GitHub Stats" />
+</a>
