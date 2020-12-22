@@ -24,8 +24,9 @@
 <li>🤘  You rock!</li>
 </ul>
 <br>
-## &#x1f4c8; GitHub Stats
-<br>
+<h2>:chart_with_upwards_trend: GitHub Stats</h2>
+
+
 <a href="https://github.com/piwiit/piwiit">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piwiit&theme=solarized-light" />
 </a>
